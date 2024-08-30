@@ -1,3 +1,4 @@
+/*This is the stylesheet for index.html*/
 body {
     margin: 5; 
     /*background-image: url(https://img.redbull.com/images/c_limit,w_1500,h_1000,f_auto,q_auto/redbullcom/2020/2/28/ysl5zoefwb8ustjwtsnc/sparks-shine-singapore-max);
@@ -15,6 +16,7 @@ body {
     position: relative;
 }
 /*Try image class for the background image*/
+
 .button-container{
     display: flex;
 }
