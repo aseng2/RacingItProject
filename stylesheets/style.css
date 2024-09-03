@@ -4,10 +4,6 @@ html {
 }
 body {
     margin: 5; 
-    /*background-image: url(https://img.redbull.com/images/c_limit,w_1500,h_1000,f_auto,q_auto/redbullcom/2020/2/28/ysl5zoefwb8ustjwtsnc/sparks-shine-singapore-max);
-    background-repeat: no-repeat;
-    background-position: center;
-    */
     background-color: rgb(52, 37, 87);
 }
 .backgroundimg {
@@ -27,7 +23,6 @@ body {
     left: 0px;
     background-color: rgba(41, 41, 41, 0.5);
 }
-/*Fix the background text*/
 
 .button-container{
     display: flex;
