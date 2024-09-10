@@ -8,8 +8,9 @@ body {
     position: relative;
 }
 #login {
-    margin-left: 1680px;
-    margin-bottom: 0px;
+    /*position:absolute;*/ /*Test if this works for different screen sizes*/
+    margin-left: 85%;
+    margin-bottom: 0%;
 }
 .backgroundimg {
     background-image: url(https://img.redbull.com/images/c_limit,w_1500,h_1000,f_auto,q_auto/redbullcom/2020/2/28/ysl5zoefwb8ustjwtsnc/sparks-shine-singapore-max);
@@ -22,6 +23,7 @@ body {
     right: 0px;
     bottom: 0px;
     left: 0px;
+    margin-top: 0%;
 
 }
 .backgroundimg::before {
@@ -32,10 +34,12 @@ body {
     bottom: 0px;
     left: 0px;
     background-color: rgba(41, 41, 41, 0.5);
+    margin-top: 0%;
 }
 
 .button-container{
-    margin-left: 100px;
+    margin-left: 0%;
+    margin-bottom: 0%;
     display: flex;
 }
 .buttonpages {
