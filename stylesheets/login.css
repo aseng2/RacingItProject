@@ -8,7 +8,7 @@ body {
     position: relative;
 }
 .backgroundimg {
-    background-image: url(https://sportscar365.com/wp-content/uploads/2023/11/37cars.jpg);
+    background-image: url(../mediastorage/background/backgroundimg.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 95%;
@@ -49,6 +49,14 @@ body {
     border: 5px solid black;
     border-radius: 8%;
     text-align: center;
+}
+.formbutton{
+    background-color: white;
+    width: 60px;
+    height: 40px;
+    border-radius: 5px 5px 5px 5px;
+    font-weight: bold;
+    color: solid black;
 }
 
 h1 {
