@@ -30,7 +30,7 @@ body {
 }
 .content{
     border: 1px solid white;
-    text-align: center;
+    text-align: left;
     margin-left: 5%;
 }
 td{
@@ -46,10 +46,9 @@ table{
 
 }
 .thumbnail{
-    margin-left: 10%;
     float: left;
     height: 20%;
-    width: 15%;
+    width: 20%;
 }
 h1 {
     margin-top: 0px;
@@ -61,13 +60,15 @@ h1 {
 }
 .h2-content {
     margin-top: 0px;
-    margin-right: 20%;
+    margin-left: 0%;
     font-size: 50px;
     color: white; 
+    margin-bottom: 0px;
 }
 .p-author {
     font-size: 20px;
-    margin-right:15%;
+    margin-top: 0%;
+    margin-bottom: 0%;
     color: white;
     font-weight: bold;
 }

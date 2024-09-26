@@ -17,6 +17,10 @@ body {
     margin-bottom: 0%;
     display: flex;
 }
+table{
+    width: 100%;
+    text-align: center;
+}
 .buttonpages {
     /*position: relative;*/
     background-color: #004AAD;
@@ -36,18 +40,16 @@ h1 {
     color: white;
     text-align: left;
 }
-h2 {
+.h2-states {
     position: relative;
     font-size: 75px;
     color: white; 
     text-align: center;
-    bottom: -45%;
+    margin-top: 10%;
+    margin-right: 10%;
 }
 p {
     color: white;
-}
-form {
-    color: yellow;
 }
 a {
     text-decoration: none;
