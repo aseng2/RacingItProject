@@ -66,11 +66,11 @@ h1 {
     text-align: center;
 }
 .h2-content {
+    margin-bottom: 0px;
     margin-top: 0px;
-    margin-left: 0%;
+    margin-right: 20%;
     font-size: 50px;
     color: white; 
-    margin-bottom: 0px;
 }
 .p-author {
     font-size: 20px;

@@ -30,8 +30,13 @@ body {
 }
 .content{
     border: 1px solid white;
-    text-align: center;
+    text-align: left;
     margin-left: 5%;
+}
+.thumbnail{
+    float: left;
+    height: 20%;
+    width: 20%;
 }
 td{
     border: 1px solid white;
@@ -49,8 +54,9 @@ table{
     width: 1100px;
 }
 .thumbnail{
-    height: 15%;
-    width: 15%;
+    float: left;
+    height: 20%;
+    width: 20%;
 }
 .pagethumbnail{
     height: 30%;
@@ -75,6 +81,7 @@ h1 {
 .h2-content {
     margin-top: 0px;
     margin-right: 20%;
+    margin-bottom: 0px;
     font-size: 50px;
     color: white; 
 }
@@ -96,18 +103,19 @@ a{
     text-decoration: none;
     color: white;
 }
-.p-author {
-    font-size: 20px;
-    margin-right:15%;
-    color: white;
-    font-weight: bold;
-}
 .p-content{
     margin-left: 40%;
     font-size: 20px;
     color: white;
     font-weight: bold;
     text-align: center;
+}
+.p-author {
+    font-size: 20px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    color: white;
+    font-weight: bold;
 }
 form {
     color: yellow;
