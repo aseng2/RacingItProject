@@ -45,6 +45,11 @@ table{
     justify-content: center;
 
 }
+.flyer{
+    margin-left: 30%;
+    height: 40%;
+    width: 40%;
+}
 .thumbnail{
     float: left;
     height: 20%;

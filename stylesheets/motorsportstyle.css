@@ -12,6 +12,42 @@ body {
     margin-left: 85%;
     margin-bottom: 0%;
 }
+.content{
+    border: 1px solid white;
+    text-align: left;
+    margin-left: 5%;
+}
+td{
+    border: 1px solid white;
+}
+.td-1{
+    background-image: url(https://wallpapers.com/images/featured/f1-hfubqbf4vngbuqur.jpg);
+    background-position: center;
+}
+.td-2{
+    background-image: url(https://pbs.twimg.com/media/F2hWGfXXkAAB8ka?format=jpg&name=4096x4096);
+    background-position: center;
+}
+.td-3{
+    background-image: url(https://en.endurance-info.com/sites/default/files/styles/image_richtext/public/2024-04/f35fe22bf817475cb5946fe331e8a716.jpg?itok=2I8wCrS3);
+    background-position: 50% 55%;
+}
+
+table{
+    width: 90%;
+}
+.backgroundimg {
+    background-image: url(https://wallpapers.com/images/featured/f1-hfubqbf4vngbuqur.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 95%;
+    position: relative;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    margin-top: 0%;
+}
 .button-container{
     margin-left: 5%; 
     margin-bottom: 0%;
@@ -44,9 +80,8 @@ h2 {
     bottom: -45%;
 }
 .h2-title {
-    margin-top: 0px;
-    margin-right: 20%;
-    font-size: 50px;
+    margin-top: 20%;
+    font-size: 100px;
     color: white; 
 }
 p {
