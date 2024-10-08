@@ -17,6 +17,18 @@ body {
     margin-bottom: 0%;
     display: flex;
 }
+td{
+    border: 1px solid white;
+}
+.td-1{
+    background-image: url(https://travel2next.com/wp-content/uploads/landmarks-in-california-griffiths-observatory-1024x683.jpg);
+    background-position: center;
+    width: 50%;
+}
+.td-2{
+    background-image: url(https://learncalifornia.org/wp-content/uploads/2023/12/nevada-landscapes.jpg);
+    background-position: center;
+}
 table{
     width: 100%;
     text-align: center;
