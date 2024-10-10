@@ -63,6 +63,14 @@ h1 {
     color: white;
     text-align: left;
 }
+.h3-title{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    font-size: 75px;
+    color: white;
+    text-align: center;
+}
 .h2-content {
     margin-bottom: 0px;
     margin-top: 0px;
