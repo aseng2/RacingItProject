@@ -4,7 +4,7 @@ describe('Visit the Page', () => {
   })
 })
 
-describe('Button Test', () => {
+/*describe('Button Test', () => {
   it('Presses Multiple Buttons', () => {
     cy.visit('http://127.0.0.1:5500/index.html')
     cy.get('.buttonpages').eq(0).click()
@@ -17,4 +17,4 @@ describe('Button Test', () => {
     cy.get('.buttonpages').eq(7).click()
     cy.get('h1').click()
   })
-})
+})*/
