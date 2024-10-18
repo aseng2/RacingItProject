@@ -6,7 +6,7 @@ describe('Meet Content Test', () => {
     //Checks the Main Page Content First
     cy.get('.h3-title').contains('Car Meets')
     cy.get('.p-author').contains('southoccarsandcoffee')
-    cy.get('.h2-content').contains('RedBull')
+    cy.get('.h2-content').contains('Redbull')
     cy.get('.thumbnail').eq(0).should('be.visible')
 
 
@@ -31,6 +31,7 @@ describe('Meet Content Test', () => {
 
     //Checks the content of userforum.html
     cy.get('.h2-content').contains('Redbull').click()
+    cy.get('.flyer').should('be.visible')
 
 
   })

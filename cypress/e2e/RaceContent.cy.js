@@ -11,6 +11,9 @@ describe('Race Content Test', () => {
 
     //Checks the content of userforum.html
     cy.get('.h2-states').contains('California').click()
-    cy.get('.h1-title').contains('California Race Tracks')
+    cy.get('.h3-title').contains('California Race Tracks')
+
+    cy.get('.h2-content').contains('Laguna Seca').click()
+    cy.get('.h1-title').contains('Laguna Seca')
   })
 })
