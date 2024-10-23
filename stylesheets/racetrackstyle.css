@@ -41,8 +41,8 @@ table{
 }
 .thumbnail{
     float: left;
-    height: 20%;
-    width: 20%;
+    height: 25%;
+    width: 25%;
 }
 .buttonpages {
     /*position: relative;*/
