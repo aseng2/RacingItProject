@@ -33,6 +33,10 @@ table{
     width: 100%;
     text-align: center;
 }
+.center-map{
+    margin-top: 5%;
+    text-align: center;
+}
 .text-width{
     margin: auto;
     text-align: center;
